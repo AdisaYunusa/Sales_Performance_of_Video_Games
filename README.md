@@ -1,5 +1,5 @@
 # Sales Performance of Video Games Using Artificial Intelligence.
-The task is to predict the sales performance of several video games worldwide; to classify and cluster the video games based on some categorical variables.
+The task is to use artificial intelligence to predict the sales performance of several video games worldwide; to classify and cluster the video games based on some categorical variables.
 
 
 Dataset Link: https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat
